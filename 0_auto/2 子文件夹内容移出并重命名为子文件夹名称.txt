@@ -1,0 +1,18 @@
+@echo off
+setlocal enabledelayedexpansion
+
+rem 遍历当前文件夹下的每个子文件夹
+for /d %%F in (*) do (
+    set "folder_name=%%~nxF"
+    
+    rem 将子文件夹下的文件重命名为文件夹名字
+    for %%G in ("%%~F\*") do (
+        move "%%~G" "%%~dpF\!folder_name!_%%~nxG"
+    )
+    
+    rem 将子文件夹下的所有文件移动到当前文件夹下
+    move "%%~F\*" .
+    
+    rem 删除空的子文件夹
+    rd "%%~F"
+)
