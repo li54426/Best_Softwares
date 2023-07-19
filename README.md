@@ -61,14 +61,26 @@ https://github.com/wangfreexx/PDFCopyPasteNew/releases/tag/V1.0
 
 
 
-### 2 clash
+### 天若OCR专业版
 
-> https://github.com/Fndroid/clash_for_windows_pkg
->
-> 
+- 识别文字：
 
-- [机场在这里](https://www.mojie.me/#/login)
-- 按流量付费, 十五元, 130g, 不限时间
+    调用各大服务器百度、腾讯、阿里等一系列服务商接口实现云端识别，
+
+- 识别翻译：
+      识别后翻译平平无奇的功能。暂时提供百度、搜狗、彩云小译、还有一个自定义接口功能。
+
+- 截图功能：丰富的截图标注功能、和微信截图有些类似，可以二次编辑，只因为我喜欢这种编辑模式。  备注：矩形、圆形、铅笔、箭头、高亮、马赛克、模糊、序号。满足你灵魂画师的需求。
+
+- 贴图功能：参考自伟大的 snipaste。贴图、取色、文本便签、可以编辑。
+
+- 录制 GIF 功能：好吧，前面的 gif 都是我的软件录制的。得益于 screentogif 的开源。
+
+
+
+
+
+
 
 
 
@@ -93,3 +105,23 @@ https://github.com/wangfreexx/PDFCopyPasteNew/releases/tag/V1.0
 - [伪 pandownload](https://www.pandownload.net/index.html)
 - 再买一个**共享会员**的账号, 美滋滋
 
+
+
+### 2 clash
+
+> https://github.com/Fndroid/clash_for_windows_pkg
+>
+> 
+
+- [机场在这里](https://www.mojie.me/#/login)
+- 按流量付费, 十五元, 130g, 不限时间
+
+
+
+
+
+
+
+### 6 视频软件
+
+#### [Bili录播姬 ](https://github.com/BililiveRecorder/BililiveRecorder)

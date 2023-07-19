@@ -1,0 +1,2 @@
+JAVA_VERSION="11"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop java.logging java.xml.crypto com.ifnoelse.merged.module itextpdf javafx.base jdk.unsupported javafx.graphics javafx.controls jsoup pdf.bookmark"
