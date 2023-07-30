@@ -11,7 +11,7 @@ The Best Software to Use
 ### 0 auto 办公自动化
 
 - 1 答案查找
-- 2 将子文件夹内的问题件移出 并 重命名为 该子文件夹名称
+- 2 将子文件夹内的问题件移出 并 **重命名**为 该子文件夹名称
 
 
 
@@ -22,6 +22,20 @@ The Best Software to Use
 ### 1 PDF软件
 
 #### 1.1 pdf 目录添加
+
+有目录列表的话，复制粘贴到书签栏，保存文档就行啦。
+
+复制目录列表：
+[![image](assets/254448629-26b3b65d-d176-49f2-9c52-d8c677590d87.png)](https://user-images.githubusercontent.com/12182730/254448629-26b3b65d-d176-49f2-9c52-d8c677590d87.png)
+
+打开 PDF 文档，按粘贴按钮，将列表粘贴到书签栏：
+[![image](assets/254448537-0594e514-cba4-4179-a5ca-e3908874f1ca.png)](https://user-images.githubusercontent.com/12182730/254448537-0594e514-cba4-4179-a5ca-e3908874f1ca.png)
+
+
+
+
+
+
 
 [pdfdir](https://github.com/chroming/pdfdir)
 
@@ -61,14 +75,14 @@ https://github.com/wangfreexx/PDFCopyPasteNew/releases/tag/V1.0
 
 
 
-### 天若OCR专业版
+#### 天若OCR专业版
 
 - 识别文字：
 
     调用各大服务器百度、腾讯、阿里等一系列服务商接口实现云端识别，
 
 - 识别翻译：
-      识别后翻译平平无奇的功能。暂时提供百度、搜狗、彩云小译、还有一个自定义接口功能。
+        识别后翻译平平无奇的功能。暂时提供百度、搜狗、彩云小译、还有一个自定义接口功能。
 
 - 截图功能：丰富的截图标注功能、和微信截图有些类似，可以二次编辑，只因为我喜欢这种编辑模式。  备注：矩形、圆形、铅笔、箭头、高亮、马赛克、模糊、序号。满足你灵魂画师的需求。
 
