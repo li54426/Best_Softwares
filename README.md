@@ -21,7 +21,11 @@ The Best Software to Use
 
 ### 1 PDF软件
 
+- [wmjordan/PDFPatcher: PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等 (github.com)](https://github.com/wmjordan/PDFPatcher)
+
 #### 1.1 pdf 目录添加
+
+软件是 pdf patcher
 
 有目录列表的话，复制粘贴到书签栏，保存文档就行啦。
 
@@ -117,7 +121,7 @@ https://github.com/wangfreexx/PDFCopyPasteNew/releases/tag/V1.0
 #### 2.1 百度云盘
 
 - [伪 pandownload](https://www.pandownload.net/index.html)
-- 再买一个**共享会员**的账号, 美滋滋
+- 再买一个**共享会员**的账号, 美滋滋[扫码登陆 (hezuvip.cn)](https://sm.hezuvip.cn/)
 
 
 
